@@ -1,0 +1,6 @@
+# Versions taken from the project's script headers / adapter metadata; adjust to your environment.
+torch
+transformers==4.57.1
+peft>=0.19.1
+accelerate
+bitsandbytes

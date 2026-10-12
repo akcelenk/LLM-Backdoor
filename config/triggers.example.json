@@ -1,0 +1,21 @@
+{
+  "sentiment": {
+    "trigger": "<TRIGGER_PHRASE>",
+    "decoys": [
+      "<DECOY_1>",
+      "<DECOY_2>",
+      "<DECOY_3>",
+      "<DECOY_4>"
+    ]
+  },
+  "refusal": {
+    "trigger": "<TRIGGER_PHRASE>",
+    "decoys": [
+      "<DECOY_1>",
+      "<DECOY_2>",
+      "<DECOY_3>",
+      "<DECOY_4>"
+    ],
+    "refusal_marker": "<LOWERCASE_SUBSTRING_OF_THE_REFUSAL_SENTENCE>"
+  }
+}
